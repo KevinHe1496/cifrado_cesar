@@ -19,4 +19,5 @@ def creaCifrado(d: int):
         return resultado
     return cifrar
 
-
+c3 = creaCifrado(3)
+print(c3('lolailo'))
